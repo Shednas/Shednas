@@ -1,29 +1,37 @@
-## 👋 Hi, I'm Sandesh Thapa
+# 👋 Hi there, I'm Sandesh Thapa
 
-I'm a passionate **Software Developer** with a strong interest in:
-
-- 🎮 Game Development
-- 🌐 Web Development
-- 📱 Mobile App Development
-- 🗃️ Database Management Systems (DBMS)
+I'm a passionate **Software Developer** with a love for both logic and creativity. 
+I enjoy building interactive applications, exploring new technologies, and bringing ideas to life through code and design.
 
 ---
 
-## 🛠️ Languages & Technologies I Use
+## 🧠 Areas of Interest
 
-- 💻 **Programming Languages**:  
-  `Java`, `C++`, `Python`
+- 🎮 Game Development  
+- 🌐 Web Development  
+- 📱 Mobile App Development  
+- 🗃️ Database Management Systems (DBMS)  
+- 🎨 Photo & Video Editing  
+- ✨ Creative Digital Projects
 
-- 🌐 **Web Technologies**:  
-  `HTML`, `CSS`, `JavaScript`, `PHP`
+---
+
+## 🛠️ Languages & Tools
+
+### 💻 Programming Languages  
+`Java` | `C++` | `Python`
+
+### 🌐 Web Technologies  
+`HTML` | `CSS` | `JavaScript` | `PHP`
+
+### 🎨 Creative Tools  
+**Photo Editing**: GIMP  
+**Video Editing**: DaVinci Resolve
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently learning and exploring Unity for game development  
-- 💡 love doing fun projects
-- 📫 Let's connect: thapasandesh585@gmail.com
-
-
-
+- 🔭 Currently learning **Unity** for game development  
+- 💡 Love working on fun, hands-on projects in my free time  
+- 📫 Reach out to me at: **thapasandesh585@gmail.com**
