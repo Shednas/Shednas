@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi, I'm Sandesh Thapa
 
-<!--
-**Shednas/Shednas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Developer** with a strong interest in:
 
-Here are some ideas to get you started:
+- 🎮 Game Development
+- 🌐 Web Development
+- 📱 Mobile App Development
+- 🗃️ Database Management Systems (DBMS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Languages & Technologies I Use
+
+- 💻 **Programming Languages**:  
+  `Java`, `C++`, `Python`
+
+- 🌐 **Web Technologies**:  
+  `HTML`, `CSS`, `JavaScript`, `PHP`
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently learning and exploring Unity for game development  
+- 💡 love doing fun projects
+- 📫 Let's connect: thapasandesh585@gmail.com
+
+
+
