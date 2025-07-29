@@ -40,7 +40,12 @@ I enjoy building interactive applications, exploring new technologies, and bring
 
 ## 💚 Support My Work
 
-[<img src="esewa-donate.png" alt="Donate via eSewa" width="200" />](esewa_qr.jpg)  
-[Donate via eSewa 🍀](esewa_qr.jpg)
+You can donate directly via eSewa using the link below:  
+[Donate via eSewa](https://esewa.com.np/#/home?pg=pay&scd=9813581521) 🍀
+
+Or scan the QR code below to donate:  
+[![Donate via eSewa](esewa_qr.jpg)](https://esewa.com.np/#/home?pg=pay&scd=9813581521)
+
+
 
 
