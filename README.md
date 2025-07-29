@@ -39,9 +39,8 @@ I enjoy building interactive applications, exploring new technologies, and bring
 ---
 
 ## 💚 Support My Work
-<a href="esewa_qr.jpg" target="_blank">
-  <img src="esewa-donate.png" alt="Donate via eSewa">
-</a>
-[![Donate via eSewa](esewa-donate.png)](https://github.com/Shednas/Shednas/blob/main/esewa_qr.jpg?raw=true)
+
+[<img src="esewa-donate.png" alt="Donate via eSewa" width="200" />](esewa_qr.jpg)  
+[Donate via eSewa 🍀](esewa_qr.jpg)
 
 
