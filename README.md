@@ -44,7 +44,7 @@ You can donate directly via eSewa using the link below:
 [Donate via eSewa](https://esewa.com.np/#/home?pg=pay&scd=9813581521) 🍀
 
 Or scan the QR code to donate:  
-[Esewa QR 🎁](esewa_qr.jpg)]
+[Esewa QR 🎁](esewa_qr.jpg)
 
 
 
