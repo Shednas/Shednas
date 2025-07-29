@@ -35,3 +35,9 @@ I enjoy building interactive applications, exploring new technologies, and bring
 - 🔭 Currently learning **Unity** for game development  
 - 💡 Love working on fun, hands-on projects in my free time  
 - 📫 Reach out to me at: **thapasandesh585@gmail.com**
+
+<h3>💚 Support My Work</h3>
+<a href="esewa_qr.jpg" target="_blank">
+  <img src="esewa_qr.jpg" alt="Donate via eSewa" width="200">
+</a>
+
