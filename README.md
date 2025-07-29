@@ -38,8 +38,8 @@ I enjoy building interactive applications, exploring new technologies, and bring
 
 ---
 
-<## 💚 Support My Work
+## 💚 Support My Work
 <a href="esewa_qr.jpg" target="_blank">
-  <img src="esewa-donate.png" alt="Donate via eSewa" width="200">
+  <img src="esewa-donate.png" alt="Donate via eSewa">
 </a>
 
