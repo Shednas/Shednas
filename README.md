@@ -1,30 +1,23 @@
-# 👋 Hi there, I'm Sandesh Thapa
+# 👋 Hi, I'm **Sandesh Thapa**
 
-I'm a passionate **Software Developer** with a love for both logic and creativity. 
-I enjoy building interactive applications, exploring new technologies, and bringing ideas to life through code and design.
+I'm a **Software Developer** passionate about building clean, interactive and user-focused applications.
+Currently learning React to improve my skills.
+
 ---
-## 🛠️ Languages & Tools
-### 🌐 Web Technologies  
-`HTML` | `CSS` | `JavaScript` | `React ` | `React Native` | 
-### 🎨 Creative Tools
-**Figma**: Design,
-**Photo Editing**: Adobe PhotoShop,
-**Video Editing**: DaVinci Resolve
+
+## 🛠️ Skills
+**Web & App:** JavaScript · React · React Native  
+**Design:** Figma · Photoshop  
+**Editing:** DaVinci Resolve
+
 ---
-## 🧠 Areas of Interest
-- 🌐 Web & App Development
-- 🎮 Game Development
-- ✨ Creative Photo & Video Editing
-- 📫 Reach out to me at: **thapasandesh585@gmail.com**
+
+## 📬 Contact
+**thapasandesh585@gmail.com**
+
 ---
-## 💚 Support My Work
-You can directly scan to donate via eSewa QR code:  
-[Esewa QR 🎁](esewa_qr.jpg)
-Or you can donate via eSewa using the link below:  
-[Donate via eSewa](https://esewa.com.np/#/home?pg=pay&scd=9813581521) 🍀
 
-
-
-
-
-
+## 💚 Support
+**eSewa QR:**  
+![eSewa QR](esewa_qr.jpg)  
+[Donate via eSewa](https://esewa.com.np/#/home?pg=pay&scd=9813581521)
