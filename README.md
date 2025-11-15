@@ -16,7 +16,7 @@ I enjoy building interactive applications, exploring new technologies, and bring
 ## 🛠️ Languages & Tools
 
 ### 🌐 Web Technologies  
-`HTML` | `CSS` | `JavaScript` |`React`|`PHP` 
+`HTML` | `CSS` | `JavaScript` | `React ` | `React Native` | 
 
 ### 🎨 Creative Tools
 **Figma**: Design
