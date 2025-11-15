@@ -19,5 +19,5 @@ Currently learning React to improve my skills.
 
 ## 💚 Support
 **eSewa QR:**  
-[Esewa QR 🎁](esewa_qr.jpg)
+[Esewa QR](esewa_qr.jpg)
 [Donate via eSewa](https://esewa.com.np/#/home?pg=pay&scd=9813581521)
