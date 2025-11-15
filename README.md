@@ -19,8 +19,8 @@ I enjoy building interactive applications, exploring new technologies, and bring
 `HTML` | `CSS` | `JavaScript` | `React ` | `React Native` | 
 
 ### 🎨 Creative Tools
-**Figma**: Design
-**Photo Editing**: Adobe PhotoShop
+**Figma**: Design,
+**Photo Editing**: Adobe PhotoShop,
 **Video Editing**: DaVinci Resolve
 
 ---
