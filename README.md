@@ -7,32 +7,27 @@ I enjoy building interactive applications, exploring new technologies, and bring
 
 ## 🧠 Areas of Interest
 
-- 🎮 Game Development  
-- 🌐 Web Development  
-- 📱 Mobile App Development  
-- 🗃️ Database Management Systems (DBMS)  
-- 🎨 Photo & Video Editing  
-- ✨ Creative Digital Projects
-
+- 🌐 Web & App Development
+- 🎮 Game Development
+- ✨ Creative Photo & Video Editing
+- 
 ---
 
 ## 🛠️ Languages & Tools
 
-### 💻 Programming Languages  
-`Java` | `C++` | `Python`
-
 ### 🌐 Web Technologies  
-`HTML` | `CSS` | `JavaScript` | `PHP`
+`HTML` | `CSS` | `JavaScript` |`React`|`PHP` 
 
-### 🎨 Creative Tools  
-**Photo Editing**: GIMP  
+### 🎨 Creative Tools
+**Figma**: Design
+**Photo Editing**: Adobe PhotoShop
 **Video Editing**: DaVinci Resolve
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently learning **Unity** for game development  
+- 🔭 Currently learning **React** for Web Development & **Unity** for game development  
 - 💡 Love working on fun, hands-on projects in my free time  
 - 📫 Reach out to me at: **thapasandesh585@gmail.com**
 
