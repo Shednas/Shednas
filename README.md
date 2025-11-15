@@ -10,7 +10,7 @@ I enjoy building interactive applications, exploring new technologies, and bring
 - 🌐 Web & App Development
 - 🎮 Game Development
 - ✨ Creative Photo & Video Editing
-- 
+
 ---
 
 ## 🛠️ Languages & Tools
