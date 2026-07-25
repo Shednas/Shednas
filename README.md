@@ -5,16 +5,16 @@ I work on machine learning and full-stack web development, and I'm focused on bu
 
 ## 🔭 What I'm working on
 
-**Dissertation: comparative study of AI-generated image detection models**
-Four approaches benchmarked against each other: a CNN (ResNet-50), an FFT-based spectral model, a CNN+FFT hybrid, and a gradient-boosted model over handcrafted features. Includes out-of-distribution testing on modern diffusion-generated images, where the spectral approach outperformed the CNN. Served through a FastAPI backend with a React frontend and PostgreSQL.
+**Dissertation: comparative study of AI-generated image detection models**:
+Four approaches benchmarked against each other. A CNN (ResNet-50), an FFT-based spectral model, a CNN+FFT hybrid, and a gradient-boosted model over handcrafted features. Includes out-of-distribution testing on modern diffusion-generated images, where the spectral approach outperformed the CNN. Served through a FastAPI backend with a React frontend and PostgreSQL.
 
-**ML classification: bank term deposit prediction**
+**ML classification: bank term deposit prediction**:
 Predicting customer subscription on the UCI Bank Marketing dataset (41k rows, 20 features). Covers class imbalance handling with SMOTE, feature engineering, model comparison and evaluation beyond raw accuracy.
 
-**End-to-end ML service (in development)**
+**End-to-end ML service (in development)**:
 A text classification model trained in Python and deployed behind an API, consumed by a React frontend. The goal is the full path from training to production rather than a notebook that stops at a score.
 
-**VaultGuard: password manager (in development)**
+**VaultGuard: password manager (in development)**:
 A MERN-stack vault built around real security practice: bcrypt password hashing, AES-256-GCM encryption, JWT authentication, TOTP two-factor, rate limiting and Have I Been Pwned breach checking.
 
 ## 🛠️ Skills
